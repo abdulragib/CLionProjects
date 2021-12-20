@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SingleLinkedlist.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\SingleLinkedlist.dir/objects.a @CMakeFiles\SingleLinkedlist.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\SingleLinkedlist.dir/objects.a -Wl,--no-whole-archive -o SingleLinkedlist.exe -Wl,--out-implib,libSingleLinkedlist.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SingleLinkedlist.dir\linklibs.rsp

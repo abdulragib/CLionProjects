@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/insertion at end  using singly linkedlist in stack/cmake-build-debug/CMakeFiles/insertion_at_end__using_singly_linkedlist_in_stack.dir
+C:/Users/LENOVO/CLionProjects/insertion at end  using singly linkedlist in stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/insertion at end  using singly linkedlist in stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\push_and__display_in_stack.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\push_and__display_in_stack.dir/objects.a @CMakeFiles\push_and__display_in_stack.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\push_and__display_in_stack.dir/objects.a -Wl,--no-whole-archive -o push_and__display_in_stack.exe -Wl,--out-implib,libpush_and__display_in_stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\push_and__display_in_stack.dir\linklibs.rsp

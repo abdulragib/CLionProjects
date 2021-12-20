@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\insersion_in_first_node_of_singly_linked_list.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\insersion_in_first_node_of_singly_linked_list.dir/objects.a @CMakeFiles\insersion_in_first_node_of_singly_linked_list.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\insersion_in_first_node_of_singly_linked_list.dir/objects.a -Wl,--no-whole-archive -o insersion_in_first_node_of_singly_linked_list.exe -Wl,--out-implib,libinsersion_in_first_node_of_singly_linked_list.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\insersion_in_first_node_of_singly_linked_list.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/deletion node at specified position in doubly linkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LENOVO/CLionProjects/deletion node at specified position in doubly linkedlist/cmake-build-debug/CMakeFiles/deletion_node_at_specified_position_in_doubly_linkedlist.dir
+C:/Users/LENOVO/CLionProjects/deletion node at specified position in doubly linkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir

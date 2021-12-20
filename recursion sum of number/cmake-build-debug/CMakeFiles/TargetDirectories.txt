@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/recursion sum of number/cmake-build-debug/CMakeFiles/recursion_sum_of_number.dir
+C:/Users/LENOVO/CLionProjects/recursion sum of number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/recursion sum of number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

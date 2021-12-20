@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/Deletion at beginning in circular  linkedlist/cmake-build-debug/CMakeFiles/Deletion_at_beginning_in_circular__linkedlist.dir
+C:/Users/LENOVO/CLionProjects/Deletion at beginning in circular  linkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/Deletion at beginning in circular  linkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/reAlloc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LENOVO/CLionProjects/reAlloc/cmake-build-debug/CMakeFiles/reAlloc.dir
+C:/Users/LENOVO/CLionProjects/reAlloc/cmake-build-debug/CMakeFiles/edit_cache.dir

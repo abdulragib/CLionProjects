@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\largestAmongThreeNo.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\largestAmongThreeNo.dir/objects.a @CMakeFiles\largestAmongThreeNo.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\largestAmongThreeNo.dir/objects.a -Wl,--no-whole-archive -o largestAmongThreeNo.exe -Wl,--out-implib,liblargestAmongThreeNo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\largestAmongThreeNo.dir\linklibs.rsp

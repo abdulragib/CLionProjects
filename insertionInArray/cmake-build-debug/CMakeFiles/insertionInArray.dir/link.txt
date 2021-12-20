@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\insertionInArray.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\insertionInArray.dir/objects.a @CMakeFiles\insertionInArray.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\insertionInArray.dir/objects.a -Wl,--no-whole-archive -o insertionInArray.exe -Wl,--out-implib,libinsertionInArray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\insertionInArray.dir\linklibs.rsp

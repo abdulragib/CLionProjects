@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/queue menu driven program using array/cmake-build-debug/CMakeFiles/queue_menu_driven_program_using_array.dir
+C:/Users/LENOVO/CLionProjects/queue menu driven program using array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/queue menu driven program using array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(insertion_at_beg_using_singly_linkedlist_in_circular_linkedlist)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(insertion_at_beg_using_singly_linkedlist_in_circular_linkedlist main.cpp)

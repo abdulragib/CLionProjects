@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/insetion at beginning in doubly linkedlist/cmake-build-debug/CMakeFiles/insetion_at_beginning_in_doubly_linkedlist.dir
+C:/Users/LENOVO/CLionProjects/insetion at beginning in doubly linkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/insetion at beginning in doubly linkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

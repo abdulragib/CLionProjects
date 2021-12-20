@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/recursion fabonacie/cmake-build-debug/CMakeFiles/recursion_fabonacie.dir
+C:/Users/LENOVO/CLionProjects/recursion fabonacie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/recursion fabonacie/cmake-build-debug/CMakeFiles/rebuild_cache.dir

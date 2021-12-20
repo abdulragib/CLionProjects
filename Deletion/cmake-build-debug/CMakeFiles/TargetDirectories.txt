@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/Deletion/cmake-build-debug/CMakeFiles/Demo.dir
+C:/Users/LENOVO/CLionProjects/Deletion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/Deletion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

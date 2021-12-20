@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/anagrams/cmake-build-debug/CMakeFiles/anagrams.dir
+C:/Users/LENOVO/CLionProjects/anagrams/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/anagrams/cmake-build-debug/CMakeFiles/rebuild_cache.dir

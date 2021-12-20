@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/queue implementation using singly linkedlist/cmake-build-debug/CMakeFiles/queue_implementation_using_singly_linkedlist.dir
+C:/Users/LENOVO/CLionProjects/queue implementation using singly linkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/queue implementation using singly linkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

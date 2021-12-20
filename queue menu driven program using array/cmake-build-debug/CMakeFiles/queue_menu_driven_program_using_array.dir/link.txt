@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\queue_menu_driven_program_using_array.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\queue_menu_driven_program_using_array.dir/objects.a @CMakeFiles\queue_menu_driven_program_using_array.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\queue_menu_driven_program_using_array.dir/objects.a -Wl,--no-whole-archive -o queue_menu_driven_program_using_array.exe -Wl,--out-implib,libqueue_menu_driven_program_using_array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\queue_menu_driven_program_using_array.dir\linklibs.rsp

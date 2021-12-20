@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/concatination in  character string/cmake-build-debug/CMakeFiles/concatination_in__character_array.dir
+C:/Users/LENOVO/CLionProjects/concatination in  character string/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/concatination in  character string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

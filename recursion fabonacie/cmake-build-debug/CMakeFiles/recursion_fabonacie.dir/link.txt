@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\recursion_fabonacie.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\recursion_fabonacie.dir/objects.a @CMakeFiles\recursion_fabonacie.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\recursion_fabonacie.dir/objects.a -Wl,--no-whole-archive -o recursion_fabonacie.exe -Wl,--out-implib,librecursion_fabonacie.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\recursion_fabonacie.dir\linklibs.rsp

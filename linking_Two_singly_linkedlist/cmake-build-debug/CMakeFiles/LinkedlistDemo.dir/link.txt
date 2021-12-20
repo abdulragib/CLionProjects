@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\LinkedlistDemo.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\LinkedlistDemo.dir/objects.a @CMakeFiles\LinkedlistDemo.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\LinkedlistDemo.dir/objects.a -Wl,--no-whole-archive -o LinkedlistDemo.exe -Wl,--out-implib,libLinkedlistDemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LinkedlistDemo.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/access_array_element_using_pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/access_array_element_using_pointers/cmake-build-debug/CMakeFiles/access_array_element_using_pointers.dir
+C:/Users/LENOVO/CLionProjects/access_array_element_using_pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/circular queue using array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LENOVO/CLionProjects/circular queue using array/cmake-build-debug/CMakeFiles/circular_queue_using_array.dir
+C:/Users/LENOVO/CLionProjects/circular queue using array/cmake-build-debug/CMakeFiles/edit_cache.dir

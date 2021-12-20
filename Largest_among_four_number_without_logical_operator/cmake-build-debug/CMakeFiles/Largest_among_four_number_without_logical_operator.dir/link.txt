@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Largest_among_four_number_without_logical_operator.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Largest_among_four_number_without_logical_operator.dir/objects.a @CMakeFiles\Largest_among_four_number_without_logical_operator.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Largest_among_four_number_without_logical_operator.dir/objects.a -Wl,--no-whole-archive -o Largest_among_four_number_without_logical_operator.exe -Wl,--out-implib,libLargest_among_four_number_without_logical_operator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Largest_among_four_number_without_logical_operator.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/LENOVO/CLionProjects/SingleLinkedlist/cmake-build-debug/CMakeFiles/SingleLinkedlist.dir
+C:/Users/LENOVO/CLionProjects/SingleLinkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/CLionProjects/SingleLinkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

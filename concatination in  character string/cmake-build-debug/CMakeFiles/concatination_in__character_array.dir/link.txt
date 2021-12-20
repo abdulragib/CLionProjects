@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\concatination_in__character_array.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\concatination_in__character_array.dir/objects.a @CMakeFiles\concatination_in__character_array.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\concatination_in__character_array.dir/objects.a -Wl,--no-whole-archive -o concatination_in__character_array.exe -Wl,--out-implib,libconcatination_in__character_array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\concatination_in__character_array.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\deletion_at_end_in_doubly_linkedList.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\deletion_at_end_in_doubly_linkedList.dir/objects.a @CMakeFiles\deletion_at_end_in_doubly_linkedList.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\deletion_at_end_in_doubly_linkedList.dir/objects.a -Wl,--no-whole-archive -o deletion_at_end_in_doubly_linkedList.exe -Wl,--out-implib,libdeletion_at_end_in_doubly_linkedList.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\deletion_at_end_in_doubly_linkedList.dir\linklibs.rsp
